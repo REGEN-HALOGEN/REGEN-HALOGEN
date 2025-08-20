@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **cool projects**  
+- 🔭 I’m currently working on **Kool projects**  
 - 🌱 I’m learning **AI / Machine Learning**  
-- 💬 Ask me about **React, Node.js, Python, and Cloud**  
-- ⚡ Fun fact: *I debug faster with coffee ☕*
+- 💬 Ask me about **React, Node.js, Python, Cloud, Linux or anything idc**  
+- ⚡ A Code has no meaning to me unless it makes my braincells fry 
 
 ---
 
@@ -27,20 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🤖 Cogito Ergo Sum
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinBiju&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinBiju&theme=tokyonight" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinBiju&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 🎯 Fun Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
