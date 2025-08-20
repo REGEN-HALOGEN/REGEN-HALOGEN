@@ -35,10 +35,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="www.linkedin.com/in/ashhhwin2003" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
   <a href="mailto:ashhhwin2003@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
@@ -46,4 +43,4 @@
 
 ---
 
-⭐️ From [Ashwin Biju](https://github.com/REGEN-HALOGEN)
+⭐️ From **Ashwin Biju** aka [REGEN-HALOGEN](https://github.com/REGEN-HALOGEN)
