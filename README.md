@@ -40,7 +40,6 @@
 
 ### 🎯 Fun Animations
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 </p>
 
@@ -48,14 +47,14 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/ashwin-biju" target="blank">
+  <a href="www.linkedin.com/in/ashhhwin2003" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ashwin@example.com" target="blank">
+  <a href="mailto:ashhhwin2003@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ From [Ashwin Biju](https://github.com/AshwinBiju)
+⭐️ From [Ashwin Biju](https://github.com/REGEN-HALOGEN)
